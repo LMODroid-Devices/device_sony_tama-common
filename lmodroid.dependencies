@@ -1,9 +1,11 @@
 [
   {
+    "remote": "lineage",
     "repository": "android_kernel_sony_sdm845",
     "target_path": "kernel/sony/sdm845"
   },
   {
+    "remote": "lineage",
     "repository": "android_hardware_sony_SonyOpenTelephony",
     "target_path": "hardware/sony/SonyOpenTelephony"
   }
